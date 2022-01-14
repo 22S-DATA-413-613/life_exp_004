@@ -1,6 +1,6 @@
 ---
 title: "Examine Life Expectancy"
-author: "Richard Ressler"
+author: "Richard L. Ressler"
 date: "1/13/2022"
 output: html_document
 ---
