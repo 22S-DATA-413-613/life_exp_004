@@ -13,9 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Here, I re-examine the analysis of Oeppen and Vaupel (2002).
 
-this is my test for section 004
-This is my second update on my branch for 004
-here is my third change once and for all for 004
+here is a new change
 
 # Analysis
 ```{r}
